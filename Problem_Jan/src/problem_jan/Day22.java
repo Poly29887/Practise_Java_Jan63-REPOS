@@ -49,6 +49,7 @@ public class Day22 {
         Arrays.sort(num); //arange num[] min->max
         int max=num[num.length-1];
         System.out.println("MAX : "+max);
+        System.out.println("");
     }
 
 }
